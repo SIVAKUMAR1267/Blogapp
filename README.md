@@ -68,15 +68,4 @@ To run this project locally, follow these steps.
     npm run dev
     ```
 
-5.  **In a new terminal, navigate to the frontend directory and install dependencies:**
-    ```bash
-    cd ../frontend
-    npm install
-    ```
-
-6.  **Start the frontend application:**
-    ```bash
-    npm start
-    ```
-
 The application should now be running on `http://localhost:3000` (or the port specified in your `.env` file).
